@@ -1,0 +1,12 @@
+button {
+    font-size: 25px;
+    font-family: Verdana, Tahoma, sans-serif;
+    padding: 10px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 6px;
+    border-width: 3px;
+    background-color: white;
+
+
+}
